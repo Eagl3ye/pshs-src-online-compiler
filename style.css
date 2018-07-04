@@ -10,10 +10,12 @@ body{
 }
 .outer_wrapper{
     width: 100%;
+    background-color: rgba(0, 0, 0, 0);
 }
 .inner_wrapper{
     width: 100%;
     height: auto;
+    background-color: rgba(0, 0, 0, 0);
 }
 .grid_container{
     margin: 0;
