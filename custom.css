@@ -6,5 +6,6 @@
 }
 .sudo-img{
     background-image: url("sudo.svg");
-    
+    background-size: 32px 32px;
+    background-repeat: no-repeat;
 }
