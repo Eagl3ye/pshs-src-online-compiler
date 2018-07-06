@@ -4,3 +4,7 @@
 .bg-dust{
     background: #ebecf2;
 }
+.sudo-img{
+    background: url("sudo.svg) 32px 32px no-repeat;
+    
+}
