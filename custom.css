@@ -8,4 +8,6 @@
     background-image: url("sudo.svg");
     background-size: 32px 32px;
     background-repeat: no-repeat;
+    height: 32px;
+    width: 32px;
 }
