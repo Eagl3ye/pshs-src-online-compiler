@@ -5,7 +5,7 @@
     background: #ebecf2;
 }
 .sudo-img{
-    background-image: url("sudo.svg");
+    background-image: url("svg/sudo.svg");
     background-size: 32px 32px;
     background-repeat: no-repeat;
     height: 32px;
